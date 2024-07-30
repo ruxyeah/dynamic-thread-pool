@@ -1,7 +1,7 @@
 package cn.ruxyeah.middleware.dynamic.thread.pool.sdk.domain.model.entity;
 
 /**
- * @author Fuzhengwei bugstack.cn @小傅哥
+ *
  * @description 线程池配置实体对象
  * @create 2024-05-12 16:05
  */

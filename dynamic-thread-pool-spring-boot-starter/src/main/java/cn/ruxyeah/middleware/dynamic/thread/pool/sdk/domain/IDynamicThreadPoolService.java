@@ -5,7 +5,7 @@ import cn.ruxyeah.middleware.dynamic.thread.pool.sdk.domain.model.entity.ThreadP
 import java.util.List;
 
 /**
- * @author Fuzhengwei bugstack.cn @小傅哥
+ *
  * @description 动态线程池服务
  * @create 2024-05-12 16:04
  */

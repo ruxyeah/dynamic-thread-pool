@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * @author Fuzhengwei bugstack.cn @小傅哥
+ *
  * @description 动态线程池变更监听
  * @create 2024-05-12 16:46
  */

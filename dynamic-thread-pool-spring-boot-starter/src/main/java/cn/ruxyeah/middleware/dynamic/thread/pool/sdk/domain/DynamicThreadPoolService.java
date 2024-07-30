@@ -12,7 +12,7 @@ import java.util.Set;
 import java.util.concurrent.ThreadPoolExecutor;
 
 /**
- * @author Fuzhengwei bugstack.cn @小傅哥
+ *
  * @description 动态线程池服务
  * @create 2024-05-12 16:08
  */
