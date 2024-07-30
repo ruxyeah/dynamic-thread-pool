@@ -14,6 +14,3 @@
 
 ![img](https://github.com/ruxyeah/dynamic-thread-pool/blob/main/docs/front/img_1.png?raw=true)
 
-### [#](https://bugstack.cn/md/zsxq/project/dynamic-thread-pool.html#_3-线程池工程)3. 线程池工程
-
-![img](https://github.com/ruxyeah/dynamic-thread-pool/blob/main/docs/front/img_2.png?raw=true)
